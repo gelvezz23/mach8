@@ -6,6 +6,12 @@
 - npm : 9.5.1
 - nvm : 0.39.1
 
+### Install App
+
+```
+npm install
+```
+
 ### Run App
 
 ```
